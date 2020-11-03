@@ -1,2 +1,2 @@
-# Flappy-bird
-Recreated the iconic Flappy-Bird game using Phaser in Javascript.
+# Flappy-Multiples
+Pass the bird from it's 3 consecutive multiples.
